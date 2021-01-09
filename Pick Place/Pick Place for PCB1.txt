@@ -1,0 +1,439 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+FID3       PCB-1-3mmFID       -803.15mil    -803.15mil   8543.307mil   7283.465mil    -803.15mil    -803.15mil  T         90.00 Fiducial       
+FID2       PCB-1-3mmFID       -803.15mil    -803.15mil     196.85mil     196.85mil    -803.15mil    -803.15mil  T         90.00 Fiducial       
+FID1       PCB-1-3mmFID       -803.15mil    -803.15mil   8543.307mil     196.85mil    -803.15mil    -803.15mil  T          0.00 Fiducial       
+U14        SOT-23-CH6_N       4724.41mil    482.283mil    4724.41mil    482.283mil   4677.166mil    444.882mil  B        360.00 MCP6043T-I/CH  
+SB45       PCB-zgo6wgtf9tfvr4qcvek3-1   4616.142mil    374.016mil   4616.142mil    374.016mil   4635.827mil    374.016mil  B        180.00 Solder Bridge 0402
+SB41       PCB-zgo6wgtf9tfvr4qcvek3-1   4872.047mil    551.181mil   4872.047mil    551.181mil   4852.362mil    551.181mil  B        360.00 Solder Bridge 0402
+R44        RESC1005X04M      4596.457mil    462.598mil   4596.457mil    462.598mil   4596.457mil    482.283mil  B        270.00 10k            
+R43        RESC1005X04M       4921.26mil    462.598mil    4921.26mil    462.598mil    4921.26mil    442.913mil  B         90.00 10k            
+R38        RESC1005X04M      4852.362mil    462.598mil   4852.362mil    462.598mil   4852.362mil    442.913mil  B         90.00 10k            
+C14        PCB-srj5nzvxxiuyr0ufdy6u-1   4744.095mil    374.016mil   4744.095mil    374.016mil   4726.772mil    374.016mil  B        360.00 100nF          
+C13        PCB-srj5nzvxxiuyr0ufdy6u-1   3956.693mil    374.016mil   3956.693mil    374.016mil    3939.37mil    374.016mil  B        360.00 100nF          
+R37        RESC1005X04M      4064.961mil    462.598mil   4064.961mil    462.598mil   4064.961mil    442.913mil  B         90.00 10k            
+R41        RESC1005X04M      4133.858mil    462.598mil   4133.858mil    462.598mil   4133.858mil    442.913mil  B         90.00 10k            
+R42        RESC1005X04M      3809.055mil    462.598mil   3809.055mil    462.598mil   3809.055mil    482.283mil  B        270.00 10k            
+SB40       PCB-zgo6wgtf9tfvr4qcvek3-1   4084.646mil    551.181mil   4084.646mil    551.181mil   4064.961mil    551.181mil  B        360.00 Solder Bridge 0402
+SB44       PCB-zgo6wgtf9tfvr4qcvek3-1    3828.74mil    374.016mil    3828.74mil    374.016mil   3848.425mil    374.016mil  B        180.00 Solder Bridge 0402
+U13        SOT-23-CH6_N      3937.008mil    482.283mil   3937.008mil    482.283mil   3889.764mil    444.882mil  B        360.00 MCP6043T-I/CH  
+U21        SOT95P280X110-5N   8419.599mil   1752.227mil     8419.6mil   1752.227mil   8382.198mil   1806.361mil  B        270.00 TPS62240DDCR   
+U20        MCHP-SOT-23-CHY6_N   7930.181mil   4901.701mil   7930.181mil   4901.701mil   7967.583mil   4854.457mil  B         90.00 MCP1624T-I/CHY 
+U19        PCB-95p4ttkl4aw68la3u91n-1   8207.945mil   4514.031mil   8207.945mil   4514.031mil   8245.346mil    4462.85mil  B        270.00 MIC5317-3.3YM5-T5
+U18        SOT95P280X145-6N   8448.819mil   2661.417mil   8448.819mil   2661.417mil   8403.543mil   2624.016mil  B        360.00 STMicroelectronics USBLC6-2SC6
+U16        SOT-23-CH6_N      6299.213mil    482.283mil   6299.213mil    482.283mil   6251.969mil    444.882mil  B        360.00 MCP6043T-I/CH  
+U15        SOT-23-CH6_N      5511.811mil    482.283mil   5511.811mil    482.284mil   5464.567mil    444.882mil  B        360.00 MCP6043T-I/CH  
+U12        SOT-23-CH6_N      3149.606mil    482.283mil   3149.606mil    482.283mil   3102.362mil    444.882mil  B        360.00 MCP6043T-I/CH  
+U11        SOT-23-CH6_N      2362.205mil    482.283mil   2362.205mil    482.283mil   2314.961mil    444.882mil  B        360.00 MCP6043T-I/CH  
+U10        SOT-23-CH6_N      1574.803mil    482.283mil   1574.803mil    482.284mil   1527.559mil    444.882mil  B        360.00 MCP6043T-I/CH  
+U9         SOT-23-CH6_N       787.402mil    482.283mil    787.402mil    482.283mil    740.158mil    444.882mil  B        360.00 MCP6043T-I/CH  
+U8         SOT-23-CH6_N      7026.575mil   6348.425mil   7026.575mil   6348.425mil   7063.976mil   6301.181mil  B         90.00 MCP6043T-I/CH  
+U7         SOT-23-CH6_N      7027.559mil   5561.024mil   7027.559mil   5561.024mil   7064.961mil   5513.779mil  B         90.00 MCP6043T-I/CH  
+U6         SOT-23-CH6_N      7027.559mil   4773.622mil   7027.559mil   4773.622mil   7064.961mil   4726.378mil  B         90.00 MCP6043T-I/CH  
+U5         SOT-23-CH6_N      7027.559mil    3986.22mil   7027.559mil    3986.22mil   7064.961mil   3938.976mil  B         90.00 MCP6043T-I/CH  
+U4         SOT-23-CH6_N      7028.543mil   3197.834mil   7028.543mil   3197.834mil   7065.945mil    3150.59mil  B         90.00 MCP6043T-I/CH  
+U3         SOT-23-CH6_N      7027.559mil   2411.417mil   7027.559mil   2411.417mil   7064.961mil   2364.173mil  B         90.00 MCP6043T-I/CH  
+U2         SOT-23-CH6_N      7027.559mil   1624.016mil   7027.559mil   1624.016mil   7064.961mil   1576.772mil  B         90.00 MCP6043T-I/CH  
+U1         SOT-23-CH6_N      7027.559mil    836.614mil   7027.559mil    836.614mil   7064.961mil     789.37mil  B         90.00 MCP6043T-I/CH  
+U22        PCB-b6b1b3q63w4r88dyx4jq-1   8362.512mil   2100.653mil   8362.512mil   2100.653mil   8325.111mil   2151.834mil  B        270.00 TS5A3166DBVR   
+SB51       PCB-zgo6wgtf9tfvr4qcvek3-1   8021.653mil    3789.37mil   8021.653mil    3789.37mil   8001.968mil    3789.37mil  B        360.00 Solder Bridge 0402
+SB50       PCB-zgo6wgtf9tfvr4qcvek3-1   7903.543mil    3789.37mil   7903.543mil    3789.37mil   7883.858mil    3789.37mil  B        360.00 Solder Bridge 0402
+SB49       PCB-zgo6wgtf9tfvr4qcvek3-1   7923.228mil    3868.11mil   7923.228mil    3868.11mil   7942.913mil    3868.11mil  B        180.00 Solder Bridge 0402
+SB48       PCB-zgo6wgtf9tfvr4qcvek3-1    7814.96mil    3868.11mil   7814.961mil    3868.11mil   7834.645mil    3868.11mil  B        180.00 Solder Bridge 0402
+SB47       PCB-zgo6wgtf9tfvr4qcvek3-1   6190.945mil    374.016mil   6190.945mil    374.016mil    6210.63mil    374.016mil  B        180.00 Solder Bridge 0402
+SB46       PCB-zgo6wgtf9tfvr4qcvek3-1   5403.543mil    374.016mil   5403.543mil    374.016mil   5423.228mil    374.016mil  B        180.00 Solder Bridge 0402
+SB43       PCB-zgo6wgtf9tfvr4qcvek3-1    6446.85mil    551.181mil    6446.85mil    551.181mil   6427.166mil    551.181mil  B        360.00 Solder Bridge 0402
+SB42       PCB-zgo6wgtf9tfvr4qcvek3-1   5659.449mil    551.181mil   5659.449mil    551.181mil   5639.764mil    551.181mil  B        360.00 Solder Bridge 0402
+SB39       PCB-zgo6wgtf9tfvr4qcvek3-1   3041.339mil    374.016mil   3041.339mil    374.016mil   3061.024mil    374.016mil  B        180.00 Solder Bridge 0402
+SB38       PCB-zgo6wgtf9tfvr4qcvek3-1   2253.937mil    374.016mil   2253.937mil    374.016mil   2273.622mil    374.016mil  B        180.00 Solder Bridge 0402
+SB37       PCB-zgo6wgtf9tfvr4qcvek3-1   1466.535mil    374.016mil   1466.535mil    374.016mil    1486.22mil    374.016mil  B        180.00 Solder Bridge 0402
+SB36       PCB-zgo6wgtf9tfvr4qcvek3-1    679.134mil    374.016mil    679.134mil    374.016mil    698.819mil    374.016mil  B        180.00 Solder Bridge 0402
+SB35       PCB-zgo6wgtf9tfvr4qcvek3-1   3297.244mil    551.181mil   3297.244mil    551.181mil   3277.559mil    551.181mil  B        360.00 Solder Bridge 0402
+SB34       PCB-zgo6wgtf9tfvr4qcvek3-1   2509.843mil    551.181mil   2509.843mil    551.181mil   2490.158mil    551.181mil  B        360.00 Solder Bridge 0402
+SB33       PCB-zgo6wgtf9tfvr4qcvek3-1   1722.441mil    551.181mil   1722.441mil    551.181mil   1702.756mil    551.181mil  B        360.00 Solder Bridge 0402
+SB32       PCB-zgo6wgtf9tfvr4qcvek3-1    935.039mil    551.181mil    935.039mil    551.181mil    915.354mil    551.181mil  B        360.00 Solder Bridge 0402
+SB31       PCB-zgo6wgtf9tfvr4qcvek3-1   7135.827mil   6240.157mil   7135.827mil   6240.157mil   7135.827mil   6259.842mil  B        270.00 Solder Bridge 0402
+SB30       PCB-zgo6wgtf9tfvr4qcvek3-1   7135.827mil   5452.756mil   7135.827mil   5452.756mil   7135.827mil   5472.441mil  B        270.00 Solder Bridge 0402
+SB29       PCB-zgo6wgtf9tfvr4qcvek3-1   7135.827mil   4665.354mil   7135.827mil   4665.354mil   7135.827mil   4685.039mil  B        270.00 Solder Bridge 0402
+SB28       PCB-zgo6wgtf9tfvr4qcvek3-1   7135.827mil   3877.953mil   7135.827mil   3877.953mil   7135.827mil   3897.638mil  B        270.00 Solder Bridge 0402
+SB27       PCB-zgo6wgtf9tfvr4qcvek3-1   6958.662mil   6496.063mil   6958.662mil   6496.063mil   6958.662mil   6476.378mil  B         90.00 Solder Bridge 0402
+SB26       PCB-zgo6wgtf9tfvr4qcvek3-1   6958.662mil   5708.661mil   6958.662mil   5708.661mil   6958.662mil   5688.976mil  B         90.00 Solder Bridge 0402
+SB25       PCB-zgo6wgtf9tfvr4qcvek3-1   6958.662mil    4921.26mil   6958.662mil    4921.26mil   6958.662mil   4901.575mil  B         90.00 Solder Bridge 0402
+SB24       PCB-zgo6wgtf9tfvr4qcvek3-1   6958.662mil   4133.858mil   6958.662mil   4133.858mil   6958.662mil   4114.173mil  B         90.00 Solder Bridge 0402
+SB23       PCB-zgo6wgtf9tfvr4qcvek3-1   7133.859mil   3088.582mil   7133.859mil   3088.583mil   7133.859mil   3108.268mil  B        270.00 Solder Bridge 0402
+SB22       PCB-zgo6wgtf9tfvr4qcvek3-1   7135.827mil   2303.149mil   7135.827mil    2303.15mil   7135.827mil   2322.835mil  B        270.00 Solder Bridge 0402
+SB21       PCB-zgo6wgtf9tfvr4qcvek3-1   7135.827mil   1515.748mil   7135.827mil   1515.748mil   7135.827mil   1535.433mil  B        270.00 Solder Bridge 0402
+SB20       PCB-zgo6wgtf9tfvr4qcvek3-1   7135.827mil    728.346mil   7135.827mil    728.346mil   7135.827mil    748.031mil  B        270.00 Solder Bridge 0402
+SB19       PCB-zgo6wgtf9tfvr4qcvek3-1   6956.693mil   3344.488mil   6956.693mil   3344.488mil   6956.693mil   3324.803mil  B         90.00 Solder Bridge 0402
+SB18       PCB-zgo6wgtf9tfvr4qcvek3-1   6958.662mil   2559.055mil   6958.662mil   2559.055mil   6958.662mil    2539.37mil  B         90.00 Solder Bridge 0402
+SB17       PCB-zgo6wgtf9tfvr4qcvek3-1   6958.662mil   1771.653mil   6958.662mil   1771.653mil   6958.662mil   1751.968mil  B         90.00 Solder Bridge 0402
+SB16       PCB-zgo6wgtf9tfvr4qcvek3-1   6958.662mil    984.252mil   6958.662mil    984.252mil   6958.662mil    964.567mil  B         90.00 Solder Bridge 0402
+SB15       PCB-zgo6wgtf9tfvr4qcvek3-1   6633.858mil    551.181mil   6633.858mil    551.181mil   6653.543mil    551.181mil  B        180.00 Solder Bridge 0402
+SB14       PCB-zgo6wgtf9tfvr4qcvek3-1   5982.283mil    374.016mil   5982.283mil    374.016mil   5962.598mil    374.016mil  B        360.00 Solder Bridge 0402
+SB13       PCB-zgo6wgtf9tfvr4qcvek3-1    5196.85mil    374.016mil    5196.85mil    374.016mil   5177.165mil    374.016mil  B        360.00 Solder Bridge 0402
+SB12       PCB-zgo6wgtf9tfvr4qcvek3-1    4407.48mil    374.016mil    4407.48mil    374.016mil   4387.795mil    374.016mil  B        360.00 Solder Bridge 0402
+SB11       PCB-zgo6wgtf9tfvr4qcvek3-1   3622.047mil    374.016mil   3622.047mil    374.016mil   3602.362mil    374.016mil  B        360.00 Solder Bridge 0402
+SB10       PCB-zgo6wgtf9tfvr4qcvek3-1   2832.677mil    374.016mil   2832.677mil    374.016mil   2812.992mil    374.016mil  B        360.00 Solder Bridge 0402
+SB9        PCB-zgo6wgtf9tfvr4qcvek3-1   2045.275mil    374.016mil   2045.275mil    374.016mil   2025.591mil    374.016mil  B        360.00 Solder Bridge 0402
+SB8        PCB-zgo6wgtf9tfvr4qcvek3-1   1257.874mil    374.016mil   1257.874mil    374.016mil   1238.189mil    374.016mil  B        360.00 Solder Bridge 0402
+SB7        PCB-zgo6wgtf9tfvr4qcvek3-1   7185.039mil   1377.953mil   7185.039mil   1377.953mil   7185.039mil   1358.268mil  B         90.00 Solder Bridge 0402
+SB6        PCB-zgo6wgtf9tfvr4qcvek3-1   7185.039mil   2165.354mil   7185.039mil   2165.354mil   7185.039mil   2145.669mil  B         90.00 Solder Bridge 0402
+SB5        PCB-zgo6wgtf9tfvr4qcvek3-1   7185.039mil   2952.756mil   7185.039mil   2952.756mil   7185.039mil   2933.071mil  B         90.00 Solder Bridge 0402
+SB4        PCB-zgo6wgtf9tfvr4qcvek3-1   7185.039mil   3740.157mil   7185.039mil   3740.157mil   7185.039mil   3720.472mil  B         90.00 Solder Bridge 0402
+SB3        PCB-zgo6wgtf9tfvr4qcvek3-1   7185.039mil   4527.559mil   7185.039mil   4527.559mil   7185.039mil   4507.874mil  B         90.00 Solder Bridge 0402
+SB2        PCB-zgo6wgtf9tfvr4qcvek3-1   7185.039mil   5314.961mil   7185.039mil   5314.961mil   7185.039mil   5295.276mil  B         90.00 Solder Bridge 0402
+SB1        PCB-zgo6wgtf9tfvr4qcvek3-1   7185.039mil   6102.362mil   7185.039mil   6102.362mil   7185.039mil   6082.677mil  B         90.00 Solder Bridge 0402
+R71        RESC1005X04M      7854.331mil   2352.362mil   7854.331mil   2352.362mil   7874.016mil   2352.362mil  B        180.00 1k             
+R70        RESC1005X04M      7509.842mil   4133.858mil   7509.842mil   4133.858mil   7509.842mil   4114.173mil  B         90.00 2k             
+R69        RESC1005X04M      7883.858mil   3435.039mil   7883.858mil   3435.039mil   7864.173mil   3435.039mil  B        360.00 33k            
+R68        RESC1005X04M      7962.598mil    393.701mil   7962.598mil    393.701mil   7962.598mil    374.016mil  B         90.00 10k            
+R67        RESC1005X04M      8395.669mil   4488.189mil   8395.669mil   4488.189mil   8395.669mil   4468.504mil  B         90.00 10k            
+R66        RESC1005X04M      8356.299mil    787.402mil   8356.299mil    787.402mil   8356.299mil    807.087mil  B        270.00 10k            
+R65        RESC1005X04M      7952.756mil    787.402mil   7952.756mil    787.402mil   7952.756mil    807.087mil  B        270.00 10k            
+R64        RESC1005X04M      7559.055mil    787.402mil   7559.055mil    787.402mil   7559.055mil    807.087mil  B        270.00 10k            
+R63        RESC1005X04M      7952.756mil   1181.102mil   7952.756mil   1181.102mil   7952.756mil   1200.787mil  B        270.00 10k            
+R62        RESC1005X04M       8470.78mil   2100.653mil    8470.78mil   2100.653mil    8470.78mil   2080.968mil  B         90.00 100k           
+R61        RESC1005X04M       8498.34mil    1604.59mil    8498.34mil    1604.59mil    8498.34mil   1584.905mil  B         90.00 300k 0.1%      
+R60        RESC1005X04M      8429.442mil   1604.589mil   8429.442mil    1604.59mil   8429.442mil   1624.274mil  B        270.00 316k 0.1%      
+R59        RESC1005X04M      7949.866mil   5029.654mil   7949.866mil   5029.654mil   7930.181mil   5029.654mil  B        360.00 68k 1%         
+R58        RESC1005X04M      7831.756mil   5029.654mil   7831.756mil   5029.654mil   7812.071mil   5029.654mil  B        360.00 100k 1%        
+R57        RESC1005X04M      7076.772mil    590.551mil   7076.772mil    590.551mil   7096.457mil    590.551mil  B        180.00 120R           
+R56        RESC1005X04M      7076.772mil   1377.953mil   7076.772mil   1377.953mil   7096.457mil   1377.953mil  B        180.00 120R           
+R55        RESC1005X04M      7076.772mil   2165.354mil   7076.772mil   2165.354mil   7096.457mil   2165.354mil  B        180.00 120R           
+R54        RESC1005X04M      7076.772mil   2952.756mil   7076.772mil   2952.756mil   7096.457mil   2952.756mil  B        180.00 120R           
+R53        RESC1005X04M      7076.772mil   3740.157mil   7076.772mil   3740.157mil   7096.457mil   3740.157mil  B        180.00 120R           
+R52        RESC1005X04M      7076.772mil   4527.559mil   7076.772mil   4527.559mil   7096.457mil   4527.559mil  B        180.00 120R           
+R51        RESC1005X04M      7076.772mil   5314.961mil   7076.772mil   5314.961mil   7096.457mil   5314.961mil  B        180.00 120R           
+R50        RESC1005X04M      7076.772mil   6102.362mil   7076.772mil   6102.362mil   7096.457mil   6102.362mil  B        180.00 120R           
+R49        RESC1005X04M      7076.772mil   6889.764mil   7076.772mil   6889.764mil   7096.457mil   6889.764mil  B        180.00 120R           
+R48        RESC1005X04M       6171.26mil    462.598mil    6171.26mil    462.598mil    6171.26mil    482.283mil  B        270.00 10k            
+R47        RESC1005X04M      6496.063mil    462.598mil   6496.063mil    462.598mil   6496.063mil    442.913mil  B         90.00 10k            
+R46        RESC1005X04M      5383.858mil    462.598mil   5383.858mil    462.598mil   5383.858mil    482.283mil  B        270.00 10k            
+R45        RESC1005X04M      5708.661mil    462.598mil   5708.661mil    462.598mil   5708.661mil    442.913mil  B         90.00 10k            
+R40        RESC1005X04M      6427.165mil    462.598mil   6427.165mil    462.598mil   6427.165mil    442.913mil  B         90.00 10k            
+R39        RESC1005X04M      5639.764mil    462.598mil   5639.764mil    462.598mil   5639.764mil    442.913mil  B         90.00 10k            
+R36        RESC1005X04M      3021.654mil    462.598mil   3021.654mil    462.598mil   3021.654mil    482.283mil  B        270.00 10k            
+R35        RESC1005X04M      3346.457mil    462.598mil   3346.457mil    462.598mil   3346.457mil    442.913mil  B         90.00 10k            
+R34        RESC1005X04M      2234.252mil    462.598mil   2234.252mil    462.598mil   2234.252mil    482.283mil  B        270.00 10k            
+R33        RESC1005X04M      2559.055mil    462.598mil   2559.055mil    462.598mil   2559.055mil    442.913mil  B         90.00 10k            
+R32        RESC1005X04M       1446.85mil    462.598mil    1446.85mil    462.598mil    1446.85mil    482.283mil  B        270.00 10k            
+R31        RESC1005X04M      1771.653mil    462.598mil   1771.653mil    462.598mil   1771.653mil    442.913mil  B         90.00 10k            
+R30        RESC1005X04M       659.449mil    462.598mil    659.449mil    462.598mil    659.449mil    482.283mil  B        270.00 10k            
+R29        RESC1005X04M       984.252mil    462.598mil    984.252mil    462.598mil    984.252mil    442.913mil  B         90.00 10k            
+R28        RESC1005X04M      3277.559mil    462.598mil   3277.559mil    462.598mil   3277.559mil    442.913mil  B         90.00 10k            
+R27        RESC1005X04M      2490.157mil    462.598mil   2490.157mil    462.598mil   2490.157mil    442.913mil  B         90.00 10k            
+R26        RESC1005X04M      1702.756mil    462.598mil   1702.756mil    462.598mil   1702.756mil    442.913mil  B         90.00 10k            
+R25        RESC1005X04M       915.354mil    462.598mil    915.354mil    462.598mil    915.354mil    442.913mil  B         90.00 10k            
+R24        RESC1005X04M      7047.244mil   6220.472mil   7047.244mil   6220.472mil   7027.559mil   6220.472mil  B        360.00 10k            
+R23        RESC1005X04M      7047.244mil   6545.275mil   7047.244mil   6545.275mil   7066.929mil   6545.275mil  B        180.00 10k            
+R22        RESC1005X04M      7047.244mil   5433.071mil   7047.244mil   5433.071mil   7027.559mil   5433.071mil  B        360.00 10k            
+R21        RESC1005X04M      7047.244mil   5757.874mil   7047.244mil   5757.874mil   7066.929mil   5757.874mil  B        180.00 10k            
+R20        RESC1005X04M      7047.244mil   4645.669mil   7047.244mil   4645.669mil   7027.559mil   4645.669mil  B        360.00 10k            
+R19        RESC1005X04M      7047.244mil   4970.472mil   7047.244mil   4970.472mil   7066.929mil   4970.472mil  B        180.00 10k            
+R18        RESC1005X04M      7047.244mil   3858.268mil   7047.244mil   3858.268mil   7027.559mil   3858.268mil  B        360.00 10k            
+R17        RESC1005X04M      7047.244mil   4183.071mil   7047.244mil   4183.071mil   7066.929mil   4183.071mil  B        180.00 10k            
+R16        RESC1005X04M      7047.244mil   6476.378mil   7047.244mil   6476.378mil   7066.929mil   6476.378mil  B        180.00 10k            
+R15        RESC1005X04M      7047.244mil   5688.976mil   7047.244mil   5688.976mil   7066.929mil   5688.976mil  B        180.00 10k            
+R14        RESC1005X04M      7047.244mil   4901.575mil   7047.244mil   4901.575mil   7066.929mil   4901.575mil  B        180.00 10k            
+R13        RESC1005X04M      7047.244mil   4114.173mil   7047.244mil   4114.173mil   7066.929mil   4114.173mil  B        180.00 10k            
+R12        RESC1005X04M      7045.276mil   3068.898mil   7045.276mil   3068.898mil   7025.591mil   3068.898mil  B        360.00 10k            
+R11        RESC1005X04M      7045.276mil   3393.701mil   7045.276mil   3393.701mil   7064.961mil   3393.701mil  B        180.00 10k            
+R10        RESC1005X04M      7047.244mil   2283.465mil   7047.244mil   2283.465mil   7027.559mil   2283.465mil  B        360.00 10k            
+R9         RESC1005X04M      7047.244mil   2608.268mil   7047.244mil   2608.268mil   7066.929mil   2608.268mil  B        180.00 10k            
+R8         RESC1005X04M      7047.244mil   1496.063mil   7047.244mil   1496.063mil   7027.559mil   1496.063mil  B        360.00 10k            
+R7         RESC1005X04M      7047.244mil   1820.866mil   7047.244mil   1820.866mil   7066.929mil   1820.866mil  B        180.00 10k            
+R6         RESC1005X04M      7047.244mil    708.661mil   7047.244mil    708.661mil   7027.559mil    708.661mil  B        360.00 10k            
+R5         RESC1005X04M      7047.244mil   1033.464mil   7047.244mil   1033.464mil   7066.929mil   1033.464mil  B        180.00 10k            
+R4         RESC1005X04M      7045.276mil   3324.803mil   7045.276mil   3324.803mil   7064.961mil   3324.803mil  B        180.00 10k            
+R3         RESC1005X04M      7047.244mil    2539.37mil   7047.244mil    2539.37mil   7066.929mil    2539.37mil  B        180.00 10k            
+R2         RESC1005X04M      7047.244mil   1751.968mil   7047.244mil   1751.968mil   7066.929mil   1751.968mil  B        180.00 10k            
+R1         RESC1005X04M      7047.244mil    964.567mil   7047.244mil    964.567mil   7066.929mil    964.567mil  B        180.00 10k            
+Q5         PCB-lygu1wj07d1mwbs3aw73-1    7460.63mil   3523.622mil    7460.63mil   3523.622mil   7498.031mil   3484.252mil  B         90.00 2N7002NXAKR    
+Q4         PCB-lygu1wj07d1mwbs3aw73-1   7637.795mil   3523.622mil   7637.795mil   3523.622mil   7675.197mil   3484.252mil  B         90.00 2N7002NXAKR    
+Q3         PCB-lygu1wj07d1mwbs3aw73-1   8021.654mil   3435.039mil   8021.654mil   3435.039mil   7982.283mil   3397.638mil  B        360.00 2N7002NXAKR    
+Q2         ADI-RT-3_L        7883.858mil   3307.086mil   7883.858mil   3307.086mil   7921.654mil   3269.291mil  B         90.00 BSS308PEH6327  
+Q1         ADI-RT-3_L        7726.378mil   3307.086mil   7726.378mil   3307.086mil   7764.173mil   3344.882mil  B        180.00 BSS308PEH6327  
+L2         PCB-3556u06u6vjx5cjzobar-1   8252.277mil   1742.385mil   8252.277mil   1742.385mil   8252.277mil    1683.33mil  B         90.00 2.2uH          
+L1         PCB-1lsrypisir8xps70co3s-1   8186.087mil   4901.701mil   8186.087mil   4901.701mil   8186.087mil   4960.756mil  B        270.00 4.7uH          
+J4         PCB-88m8m48jei8r9hip1xda-1   7913.386mil    3888.78mil   7529.528mil   3949.803mil   7529.528mil   3949.803mil  T        360.00 FCI 62684-401100ALF
+J3         PCB-m5awqejvlawzn2tj7o8m-1   8543.307mil   3277.559mil   8543.307mil   3277.559mil   8638.307mil   3502.559mil  B        270.00 Samtec FTSH-110-01-L-DV-007-K
+D82        PCB-pdf5zse1jkbqdpg1nzvf-1   7568.898mil   3779.528mil   7568.898mil   3769.685mil   7568.898mil   3816.929mil  B        270.00 RSX051VAM30TR  
+C61        CAPC1608X08N      7755.905mil   2322.834mil   7755.905mil   2322.835mil   7755.905mil   2295.276mil  B         90.00 10uF           
+C60        PCB-srj5nzvxxiuyr0ufdy6u-1   7687.008mil   2332.677mil   7687.008mil   2332.677mil   7687.008mil   2315.354mil  B         90.00 100nF          
+C59        PCB-srj5nzvxxiuyr0ufdy6u-1   7706.693mil   2490.157mil   7706.693mil   2490.157mil   7724.016mil   2490.157mil  B        180.00 100nF          
+C57        PCB-srj5nzvxxiuyr0ufdy6u-1   7864.173mil    393.701mil   7864.173mil    393.701mil   7864.173mil    376.378mil  B         90.00 100nF          
+C56        PCB-srj5nzvxxiuyr0ufdy6u-1   8267.717mil    787.402mil   8267.717mil    787.402mil   8267.717mil    804.724mil  B        270.00 100nF          
+C55        PCB-srj5nzvxxiuyr0ufdy6u-1   7874.016mil    787.402mil   7874.016mil    787.402mil   7874.016mil    804.724mil  B        270.00 100nF          
+C54        PCB-srj5nzvxxiuyr0ufdy6u-1   7480.315mil    787.402mil   7480.315mil    787.402mil   7480.315mil    804.724mil  B        270.00 100nF          
+C53        PCB-srj5nzvxxiuyr0ufdy6u-1   7874.016mil   1181.102mil   7874.016mil   1181.102mil   7874.016mil   1198.425mil  B        270.00 100nF          
+C52        CAPC1608X08N      7411.417mil    3789.37mil   7411.417mil    3789.37mil   7411.417mil   3816.929mil  B        270.00 2.2uF          
+C51        CAPC1608X08N      7490.158mil    3789.37mil   7490.158mil    3789.37mil   7490.158mil   3816.929mil  B        270.00 2.2uF          
+C50        CAPC1608X08N       7657.48mil    3789.37mil    7657.48mil    3789.37mil    7657.48mil   3816.929mil  B        270.00 2.2uF          
+C49        CAPC1608X08N       7736.22mil    3789.37mil    7736.22mil    3789.37mil    7736.22mil   3816.929mil  B        270.00 2.2uF          
+C48        CAPC1608X08N      7431.102mil   4143.701mil   7431.102mil   4143.701mil   7431.102mil    4171.26mil  B        270.00 1uF            
+C47        CAPC1608X08N      7588.583mil   4143.701mil   7588.583mil   4143.701mil   7588.583mil    4171.26mil  B        270.00 2.2uF          
+C46        CAPC1608X08N      7667.323mil   4143.701mil   7667.323mil   4143.701mil   7667.323mil    4171.26mil  B        270.00 2.2uF          
+C45        CAPC1608X08N      7746.063mil   4143.701mil   7746.063mil   4143.701mil   7746.063mil    4171.26mil  B        270.00 2.2uF          
+C44        CAPC1608X08N      7824.803mil   4143.701mil   7824.803mil   4143.701mil   7824.803mil    4171.26mil  B        270.00 2.2uF          
+C43        CAPC1608X08N      7903.543mil   4143.701mil   7903.543mil   4143.701mil   7903.543mil    4171.26mil  B        270.00 2.2uF          
+C42        CAPC1608X08N      7982.283mil   4143.701mil   7982.283mil   4143.701mil   7982.283mil   4116.142mil  B         90.00 2.2uF          
+C41        CAPC1608X08N      8061.024mil   4143.701mil   8061.024mil   4143.701mil   8061.024mil   4116.142mil  B         90.00 2.2uF          
+C40        CAPC1608X08N      8139.764mil   4143.701mil   8139.764mil   4143.701mil   8139.764mil   4116.142mil  B         90.00 2.2uF          
+C39        CAPC1608X08N      8218.504mil   4143.701mil   8218.504mil   4143.701mil   8218.504mil   4116.142mil  B         90.00 2.2uF          
+C38        PCB-srj5nzvxxiuyr0ufdy6u-1   7883.858mil   3503.937mil   7883.858mil   3503.937mil   7901.181mil   3503.937mil  B        180.00 100nF          
+C37        CAPC1608X08N      8139.764mil   3759.842mil   8139.764mil   3759.842mil   8139.764mil   3787.401mil  B        270.00 2.2uF          
+C36        PCB-srj5nzvxxiuyr0ufdy6u-1   8120.079mil   2293.307mil   8120.079mil   2293.307mil   8137.401mil   2293.307mil  B        180.00 1nF            
+C35        PCB-srj5nzvxxiuyr0ufdy6u-1   7706.693mil   2746.063mil   7706.693mil   2746.063mil    7689.37mil   2746.063mil  B        360.00 1nF            
+C34        CAPC1608X08N      8350.702mil   1890.023mil   8350.702mil   1890.023mil   8378.261mil   1890.023mil  B        180.00 10uF           
+C33        PCB-srj5nzvxxiuyr0ufdy6u-1   8342.827mil   1972.701mil   8342.827mil   1972.701mil    8360.15mil   1972.701mil  B        180.00 100nF          
+C32        PCB-srj5nzvxxiuyr0ufdy6u-1   8360.544mil    1604.59mil   8360.544mil    1604.59mil   8360.544mil   1587.267mil  B         90.00 22pF           
+C31        CAPC1608X08N      8488.497mil   1890.023mil   8488.497mil   1890.023mil   8460.938mil   1890.023mil  B        360.00 4.7uF          
+C30        CAPC1608X08N      7802.229mil   4931.228mil   7802.229mil   4931.228mil   7802.229mil   4903.669mil  B         90.00 10uF           
+C29        CAPC1608X08N      8058.134mil   4931.228mil   8058.134mil   4931.228mil   8058.134mil   4903.669mil  B         90.00 4.7uF          
+C28        PCB-srj5nzvxxiuyr0ufdy6u-1   7706.693mil    2657.48mil   7706.693mil    2657.48mil   7724.016mil    2657.48mil  B        180.00 100nF          
+C27        PCB-srj5nzvxxiuyr0ufdy6u-1   7687.008mil   2568.898mil   7687.008mil   2568.898mil   7687.008mil    2586.22mil  B        270.00 100nF          
+C26        PCB-srj5nzvxxiuyr0ufdy6u-1   7706.693mil   2214.567mil   7706.693mil   2214.567mil    7689.37mil   2214.567mil  B        360.00 100nF          
+C25        PCB-srj5nzvxxiuyr0ufdy6u-1   8139.764mil   2135.827mil   8139.764mil   2135.827mil   8122.441mil   2135.827mil  B        360.00 100nF          
+C24        PCB-srj5nzvxxiuyr0ufdy6u-1   8218.504mil    2736.22mil   8218.504mil    2736.22mil   8235.827mil    2736.22mil  B        180.00 100nF          
+C23        PCB-srj5nzvxxiuyr0ufdy6u-1   7687.008mil   2903.543mil   7687.008mil   2903.543mil   7704.331mil   2903.543mil  B        180.00 100nF          
+C21        CAPC1608X08N      7984.252mil   3641.732mil   7984.252mil   3641.732mil   8011.811mil   3641.732mil  B        180.00 1uF            
+C20        PCB-srj5nzvxxiuyr0ufdy6u-1   7866.142mil   3641.732mil   7866.142mil   3641.732mil   7848.819mil   3641.732mil  B        360.00 100nF          
+C19        CAPC3216X178X50NL20T25   8248.031mil   5472.441mil   8248.031mil   5472.441mil    8303.15mil   5472.441mil  B        180.00 100uF          
+C18        CAPC1608X08N      8316.929mil    4486.22mil   8316.929mil    4486.22mil   8316.929mil   4513.779mil  B        270.00 1uF            
+C17        CAPC1608X08N      8218.504mil   4643.701mil   8218.504mil   4643.701mil   8190.945mil   4643.701mil  B        360.00 1uF            
+C16        PCB-srj5nzvxxiuyr0ufdy6u-1   6318.898mil    374.016mil   6318.898mil    374.016mil   6301.575mil    374.016mil  B        360.00 100nF          
+C15        PCB-srj5nzvxxiuyr0ufdy6u-1   5531.496mil    374.016mil   5531.496mil    374.016mil   5514.173mil    374.016mil  B        360.00 100nF          
+C12        PCB-srj5nzvxxiuyr0ufdy6u-1   3169.291mil    374.016mil   3169.291mil    374.016mil   3151.969mil    374.016mil  B        360.00 100nF          
+C11        PCB-srj5nzvxxiuyr0ufdy6u-1    2381.89mil    374.016mil    2381.89mil    374.016mil   2364.567mil    374.016mil  B        360.00 100nF          
+C10        PCB-srj5nzvxxiuyr0ufdy6u-1   1594.488mil    374.016mil   1594.488mil    374.016mil   1577.165mil    374.016mil  B        360.00 100nF          
+C9         PCB-srj5nzvxxiuyr0ufdy6u-1    807.087mil    374.016mil    807.087mil    374.016mil    789.764mil    374.016mil  B        360.00 100nF          
+C8         PCB-srj5nzvxxiuyr0ufdy6u-1   7135.827mil    6368.11mil   7135.827mil    6368.11mil   7135.827mil   6350.787mil  B         90.00 100nF          
+C7         PCB-srj5nzvxxiuyr0ufdy6u-1   7135.827mil   5580.709mil   7135.827mil   5580.709mil   7135.827mil   5563.386mil  B         90.00 100nF          
+C6         PCB-srj5nzvxxiuyr0ufdy6u-1   7135.827mil   4793.307mil   7135.827mil   4793.307mil   7135.827mil   4775.984mil  B         90.00 100nF          
+C5         PCB-srj5nzvxxiuyr0ufdy6u-1   7135.827mil   4005.905mil   7135.827mil   4005.905mil   7135.827mil   3988.583mil  B         90.00 100nF          
+C4         PCB-srj5nzvxxiuyr0ufdy6u-1   7133.859mil   3216.535mil   7133.859mil   3216.535mil   7133.859mil   3199.213mil  B         90.00 100nF          
+C3         PCB-srj5nzvxxiuyr0ufdy6u-1   7135.827mil   2431.102mil   7135.827mil   2431.102mil   7135.827mil    2413.78mil  B         90.00 100nF          
+C2         PCB-srj5nzvxxiuyr0ufdy6u-1   7135.827mil   1643.701mil   7135.827mil   1643.701mil   7135.827mil   1626.378mil  B         90.00 100nF          
+C1         PCB-srj5nzvxxiuyr0ufdy6u-1   7135.827mil    856.299mil   7135.827mil    856.299mil   7135.827mil    838.976mil  B         90.00 100nF          
+U17        PCB-vk6j3i550t86uhup3vw7-1   7913.386mil   2519.685mil   7913.386mil   2519.685mil   7608.268mil   2755.905mil  T          0.00 STMicroelectronics STM32L4P5VGT6P
+B1         PCB-372er05q764edivmfsgk-1   8242.126mil   6237.894mil   7992.126mil   5472.441mil   7992.126mil   5472.441mil  T        270.00 Keystone 2468  
+S134       PCB-01q4xvz8qs5ux8qkrnb3-1   7913.386mil    393.701mil   7913.386mil    393.701mil   7785.433mil    482.284mil  T          0.00 6x6mm tact switch
+S133       PCB-01q4xvz8qs5ux8qkrnb3-1   8307.086mil    787.402mil   8307.087mil    787.402mil   8435.039mil    698.819mil  T        180.00 6x6mm tact switch
+S132       PCB-01q4xvz8qs5ux8qkrnb3-1   7913.386mil    787.402mil   7913.386mil    787.402mil   8041.338mil    698.819mil  T        180.00 6x6mm tact switch
+S131       PCB-01q4xvz8qs5ux8qkrnb3-1   7519.685mil    787.402mil   7519.685mil    787.402mil   7647.638mil    698.819mil  T        180.00 6x6mm tact switch
+S130       PCB-01q4xvz8qs5ux8qkrnb3-1   7913.386mil   1181.102mil   7913.386mil   1181.102mil   8041.338mil    1092.52mil  T        180.00 6x6mm tact switch
+S129       PCB-i2avmqml980kjsbvhtwo-1   8622.047mil   4772.638mil   8622.047mil   4772.638mil   8622.047mil   4654.528mil  T         90.00 EG1206A        
+J2         PCB-w9niq6n6zm0cwiu5nkjp-1   7913.386mil   3720.472mil   8001.968mil   3760.827mil   7824.803mil   3760.827mil  T        360.00 Amphenol ICC / FCI SFV10R-1STBE1HLF
+J1         10118193          8630.413mil   2674.213mil   8683.071mil   2674.213mil   8577.756mil   2623.032mil  T         90.00 Amphenol ICC / FCI 10118193-0001LF
+B2         PCB-4nz08h0mgqelqvr7t0vq-1   8070.866mil   5724.803mil   8070.866mil   6259.842mil   7775.787mil   5189.764mil  T        270.00 Keystone 2462  
+D1         PCB-te7tz55drqxqj78i57nm-1    590.551mil   6889.764mil    590.551mil   6889.764mil    667.323mil   6889.764mil  B        180.00 LED            
+D2         PCB-te7tz55drqxqj78i57nm-1   1377.953mil   6889.764mil   1377.953mil   6889.764mil   1454.725mil   6889.764mil  B        180.00 LED            
+D3         PCB-te7tz55drqxqj78i57nm-1   2165.354mil   6889.764mil   2165.354mil   6889.764mil   2242.126mil   6889.764mil  B        180.00 LED            
+D4         PCB-te7tz55drqxqj78i57nm-1   2952.756mil   6889.764mil   2952.756mil   6889.764mil   3029.528mil   6889.764mil  B        180.00 LED            
+D5         PCB-te7tz55drqxqj78i57nm-1   3740.157mil   6889.764mil   3740.157mil   6889.764mil   3816.929mil   6889.764mil  B        180.00 LED            
+D6         PCB-te7tz55drqxqj78i57nm-1   4527.559mil   6889.764mil   4527.559mil   6889.764mil   4604.331mil   6889.764mil  B        180.00 LED            
+D7         PCB-te7tz55drqxqj78i57nm-1   5314.961mil   6889.764mil   5314.961mil   6889.764mil   5391.732mil   6889.764mil  B        180.00 LED            
+D8         PCB-te7tz55drqxqj78i57nm-1   6102.362mil   6889.764mil   6102.362mil   6889.764mil   6179.134mil   6889.764mil  B        180.00 LED            
+D9         PCB-te7tz55drqxqj78i57nm-1   6889.764mil   6889.764mil   6889.764mil   6889.764mil   6966.535mil   6889.764mil  B        180.00 LED            
+D13        PCB-te7tz55drqxqj78i57nm-1   2952.756mil   6102.362mil   2952.756mil   6102.362mil   3029.528mil   6102.362mil  B        180.00 LED            
+D14        PCB-te7tz55drqxqj78i57nm-1   3740.157mil   6102.362mil   3740.157mil   6102.362mil   3816.929mil   6102.362mil  B        180.00 LED            
+D15        PCB-te7tz55drqxqj78i57nm-1   4527.559mil   6102.362mil   4527.559mil   6102.362mil   4604.331mil   6102.362mil  B        180.00 LED            
+D16        PCB-te7tz55drqxqj78i57nm-1   5314.961mil   6102.362mil   5314.961mil   6102.362mil   5391.732mil   6102.362mil  B        180.00 LED            
+D17        PCB-te7tz55drqxqj78i57nm-1   6102.362mil   6102.362mil   6102.362mil   6102.362mil   6179.134mil   6102.362mil  B        180.00 LED            
+D18        PCB-te7tz55drqxqj78i57nm-1   6889.764mil   6102.362mil   6889.764mil   6102.362mil   6966.535mil   6102.362mil  B        180.00 LED            
+D22        PCB-te7tz55drqxqj78i57nm-1   2952.756mil   5314.961mil   2952.756mil   5314.961mil   3029.528mil   5314.961mil  B        180.00 LED            
+D23        PCB-te7tz55drqxqj78i57nm-1   3740.157mil   5314.961mil   3740.157mil   5314.961mil   3816.929mil   5314.961mil  B        180.00 LED            
+D24        PCB-te7tz55drqxqj78i57nm-1   4527.559mil   5314.961mil   4527.559mil   5314.961mil   4604.331mil   5314.961mil  B        180.00 LED            
+D25        PCB-te7tz55drqxqj78i57nm-1   5314.961mil   5314.961mil   5314.961mil   5314.961mil   5391.732mil   5314.961mil  B        180.00 LED            
+D26        PCB-te7tz55drqxqj78i57nm-1   6102.362mil   5314.961mil   6102.362mil   5314.961mil   6179.134mil   5314.961mil  B        180.00 LED            
+D27        PCB-te7tz55drqxqj78i57nm-1   6889.764mil   5314.961mil   6889.764mil   5314.961mil   6966.535mil   5314.961mil  B        180.00 LED            
+D28        PCB-te7tz55drqxqj78i57nm-1    590.551mil   4527.559mil    590.551mil   4527.559mil    667.323mil   4527.559mil  B        180.00 LED            
+D29        PCB-te7tz55drqxqj78i57nm-1   1377.953mil   4527.559mil   1377.953mil   4527.559mil   1454.725mil   4527.559mil  B        180.00 LED            
+D30        PCB-te7tz55drqxqj78i57nm-1   2165.354mil   4527.559mil   2165.354mil   4527.559mil   2242.126mil   4527.559mil  B        180.00 LED            
+D31        PCB-te7tz55drqxqj78i57nm-1   2952.756mil   4527.559mil   2952.756mil   4527.559mil   3029.528mil   4527.559mil  B        180.00 LED            
+D32        PCB-te7tz55drqxqj78i57nm-1   3740.157mil   4527.559mil   3740.157mil   4527.559mil   3816.929mil   4527.559mil  B        180.00 LED            
+D33        PCB-te7tz55drqxqj78i57nm-1   4527.559mil   4527.559mil   4527.559mil   4527.559mil   4604.331mil   4527.559mil  B        180.00 LED            
+D34        PCB-te7tz55drqxqj78i57nm-1   5314.961mil   4527.559mil   5314.961mil   4527.559mil   5391.732mil   4527.559mil  B        180.00 LED            
+D35        PCB-te7tz55drqxqj78i57nm-1   6102.362mil   4527.559mil   6102.362mil   4527.559mil   6179.134mil   4527.559mil  B        180.00 LED            
+D36        PCB-te7tz55drqxqj78i57nm-1   6889.764mil   4527.559mil   6889.764mil   4527.559mil   6966.535mil   4527.559mil  B        180.00 LED            
+D37        PCB-te7tz55drqxqj78i57nm-1    590.551mil   3740.157mil    590.551mil   3740.157mil    667.323mil   3740.157mil  B        180.00 LED            
+D38        PCB-te7tz55drqxqj78i57nm-1   1377.953mil   3740.157mil   1377.953mil   3740.157mil   1454.725mil   3740.157mil  B        180.00 LED            
+D39        PCB-te7tz55drqxqj78i57nm-1   2165.354mil   3740.157mil   2165.354mil   3740.157mil   2242.126mil   3740.157mil  B        180.00 LED            
+D40        PCB-te7tz55drqxqj78i57nm-1   2952.756mil   3740.157mil   2952.756mil   3740.157mil   3029.528mil   3740.157mil  B        180.00 LED            
+D41        PCB-te7tz55drqxqj78i57nm-1   3740.157mil   3740.157mil   3740.157mil   3740.157mil   3816.929mil   3740.157mil  B        180.00 LED            
+D42        PCB-te7tz55drqxqj78i57nm-1   4527.559mil   3740.157mil   4527.559mil   3740.157mil   4604.331mil   3740.157mil  B        180.00 LED            
+D43        PCB-te7tz55drqxqj78i57nm-1   5314.961mil   3740.157mil   5314.961mil   3740.157mil   5391.732mil   3740.157mil  B        180.00 LED            
+D44        PCB-te7tz55drqxqj78i57nm-1   6102.362mil   3740.157mil   6102.362mil   3740.157mil   6179.134mil   3740.157mil  B        180.00 LED            
+D45        PCB-te7tz55drqxqj78i57nm-1   6889.764mil   3740.157mil   6889.764mil   3740.157mil   6966.535mil   3740.157mil  B        180.00 LED            
+D46        PCB-te7tz55drqxqj78i57nm-1    590.551mil   2952.756mil    590.551mil   2952.756mil    667.323mil   2952.756mil  B        180.00 LED            
+D47        PCB-te7tz55drqxqj78i57nm-1   1377.953mil   2952.756mil   1377.953mil   2952.756mil   1454.725mil   2952.756mil  B        180.00 LED            
+D48        PCB-te7tz55drqxqj78i57nm-1   2165.354mil   2952.756mil   2165.354mil   2952.756mil   2242.126mil   2952.756mil  B        180.00 LED            
+D49        PCB-te7tz55drqxqj78i57nm-1   2952.756mil   2952.756mil   2952.756mil   2952.756mil   3029.528mil   2952.756mil  B        180.00 LED            
+D50        PCB-te7tz55drqxqj78i57nm-1   3740.157mil   2952.756mil   3740.157mil   2952.756mil   3816.929mil   2952.756mil  B        180.00 LED            
+D51        PCB-te7tz55drqxqj78i57nm-1   4527.559mil   2952.756mil   4527.559mil   2952.756mil   4604.331mil   2952.756mil  B        180.00 LED            
+D52        PCB-te7tz55drqxqj78i57nm-1   5314.961mil   2952.756mil   5314.961mil   2952.756mil   5391.732mil   2952.756mil  B        180.00 LED            
+D53        PCB-te7tz55drqxqj78i57nm-1   6102.362mil   2952.756mil   6102.362mil   2952.756mil   6179.134mil   2952.756mil  B        180.00 LED            
+D54        PCB-te7tz55drqxqj78i57nm-1   6889.764mil   2952.756mil   6889.764mil   2952.756mil   6966.535mil   2952.756mil  B        180.00 LED            
+D55        PCB-te7tz55drqxqj78i57nm-1    590.551mil   2165.354mil    590.551mil   2165.354mil    667.323mil   2165.354mil  B        180.00 LED            
+D56        PCB-te7tz55drqxqj78i57nm-1   1377.953mil   2165.354mil   1377.953mil   2165.354mil   1454.725mil   2165.354mil  B        180.00 LED            
+D57        PCB-te7tz55drqxqj78i57nm-1   2165.354mil   2165.354mil   2165.354mil   2165.354mil   2242.126mil   2165.354mil  B        180.00 LED            
+D58        PCB-te7tz55drqxqj78i57nm-1   2952.756mil   2165.354mil   2952.756mil   2165.354mil   3029.528mil   2165.354mil  B        180.00 LED            
+D59        PCB-te7tz55drqxqj78i57nm-1   3740.157mil   2165.354mil   3740.157mil   2165.354mil   3816.929mil   2165.354mil  B        180.00 LED            
+D60        PCB-te7tz55drqxqj78i57nm-1   4527.559mil   2165.354mil   4527.559mil   2165.354mil   4604.331mil   2165.354mil  B        180.00 LED            
+D61        PCB-te7tz55drqxqj78i57nm-1   5314.961mil   2165.354mil   5314.961mil   2165.354mil   5391.732mil   2165.354mil  B        180.00 LED            
+D62        PCB-te7tz55drqxqj78i57nm-1   6102.362mil   2165.354mil   6102.362mil   2165.354mil   6179.134mil   2165.354mil  B        180.00 LED            
+D63        PCB-te7tz55drqxqj78i57nm-1   6889.764mil   2165.354mil   6889.764mil   2165.354mil   6966.535mil   2165.354mil  B        180.00 LED            
+D64        PCB-te7tz55drqxqj78i57nm-1    590.551mil   1377.953mil    590.551mil   1377.953mil    667.323mil   1377.953mil  B        180.00 LED            
+D65        PCB-te7tz55drqxqj78i57nm-1   1377.953mil   1377.953mil   1377.953mil   1377.953mil   1454.725mil   1377.953mil  B        180.00 LED            
+D66        PCB-te7tz55drqxqj78i57nm-1   2165.354mil   1377.953mil   2165.354mil   1377.953mil   2242.126mil   1377.953mil  B        180.00 LED            
+D67        PCB-te7tz55drqxqj78i57nm-1   2952.756mil   1377.953mil   2952.756mil   1377.953mil   3029.528mil   1377.953mil  B        180.00 LED            
+D68        PCB-te7tz55drqxqj78i57nm-1   3740.157mil   1377.953mil   3740.157mil   1377.953mil   3816.929mil   1377.953mil  B        180.00 LED            
+D69        PCB-te7tz55drqxqj78i57nm-1   4527.559mil   1377.953mil   4527.559mil   1377.953mil   4604.331mil   1377.953mil  B        180.00 LED            
+D70        PCB-te7tz55drqxqj78i57nm-1   5314.961mil   1377.953mil   5314.961mil   1377.953mil   5391.732mil   1377.953mil  B        180.00 LED            
+D71        PCB-te7tz55drqxqj78i57nm-1   6102.362mil   1377.953mil   6102.362mil   1377.953mil   6179.134mil   1377.953mil  B        180.00 LED            
+D72        PCB-te7tz55drqxqj78i57nm-1   6889.764mil   1377.953mil   6889.764mil   1377.953mil   6966.535mil   1377.953mil  B        180.00 LED            
+D73        PCB-te7tz55drqxqj78i57nm-1    590.551mil    590.551mil    590.551mil    590.551mil    667.323mil    590.551mil  B        180.00 LED            
+D74        PCB-te7tz55drqxqj78i57nm-1   1377.953mil    590.551mil   1377.953mil    590.551mil   1454.725mil    590.551mil  B        180.00 LED            
+D75        PCB-te7tz55drqxqj78i57nm-1   2165.354mil    590.551mil   2165.354mil    590.551mil   2242.126mil    590.551mil  B        180.00 LED            
+D76        PCB-te7tz55drqxqj78i57nm-1   2952.756mil    590.551mil   2952.756mil    590.551mil   3029.528mil    590.551mil  B        180.00 LED            
+D77        PCB-te7tz55drqxqj78i57nm-1   3740.157mil    590.551mil   3740.157mil    590.551mil   3816.929mil    590.551mil  B        180.00 LED            
+D78        PCB-te7tz55drqxqj78i57nm-1   4527.559mil    590.551mil   4527.559mil    590.551mil   4604.331mil    590.551mil  B        180.00 LED            
+D79        PCB-te7tz55drqxqj78i57nm-1   5314.961mil    590.551mil   5314.961mil    590.551mil   5391.732mil    590.551mil  B        180.00 LED            
+D80        PCB-te7tz55drqxqj78i57nm-1   6102.362mil    590.551mil   6102.362mil    590.551mil   6179.134mil    590.551mil  B        180.00 LED            
+D81        PCB-te7tz55drqxqj78i57nm-1   6889.764mil    590.551mil   6889.764mil    590.551mil   6966.535mil    590.551mil  B        180.00 LED            
+S65        PCB-23fkddm5n7nwthazufj0-1    797.244mil   6496.063mil    984.252mil   6496.063mil    807.087mil   6574.803mil  T          0.00 sense_cap_chess_20mm
+S66        PCB-23fkddm5n7nwthazufj0-1   1584.646mil   6496.063mil   1771.653mil   6496.063mil   1594.488mil   6574.803mil  T          0.00 sense_cap_chess_20mm
+S67        PCB-23fkddm5n7nwthazufj0-1   2372.047mil   6496.063mil   2559.055mil   6496.063mil    2381.89mil   6574.803mil  T          0.00 sense_cap_chess_20mm
+S68        PCB-23fkddm5n7nwthazufj0-1   3159.449mil   6496.063mil   3346.457mil   6496.063mil   3169.291mil   6574.803mil  T          0.00 sense_cap_chess_20mm
+S69        PCB-23fkddm5n7nwthazufj0-1    3946.85mil   6496.063mil   4133.858mil   6496.063mil   3956.693mil   6574.803mil  T          0.00 sense_cap_chess_20mm
+S70        PCB-23fkddm5n7nwthazufj0-1   4734.252mil   6496.063mil    4921.26mil   6496.063mil   4744.094mil   6574.803mil  T          0.00 sense_cap_chess_20mm
+S71        PCB-23fkddm5n7nwthazufj0-1   5521.654mil   6496.063mil   5708.661mil   6496.063mil   5531.496mil   6574.803mil  T          0.00 sense_cap_chess_20mm
+S72        PCB-23fkddm5n7nwthazufj0-1   6309.055mil   6496.063mil   6496.063mil   6496.063mil   6318.898mil   6574.803mil  T          0.00 sense_cap_chess_20mm
+S73        PCB-23fkddm5n7nwthazufj0-1    797.244mil   5708.661mil    984.252mil   5708.661mil    807.087mil   5787.402mil  T          0.00 sense_cap_chess_20mm
+S74        PCB-23fkddm5n7nwthazufj0-1   1584.646mil   5708.661mil   1771.653mil   5708.661mil   1594.488mil   5787.402mil  T          0.00 sense_cap_chess_20mm
+S75        PCB-23fkddm5n7nwthazufj0-1   2372.047mil   5708.661mil   2559.055mil   5708.661mil    2381.89mil   5787.402mil  T          0.00 sense_cap_chess_20mm
+S76        PCB-23fkddm5n7nwthazufj0-1   3159.449mil   5708.661mil   3346.457mil   5708.661mil   3169.291mil   5787.402mil  T          0.00 sense_cap_chess_20mm
+S77        PCB-23fkddm5n7nwthazufj0-1    3946.85mil   5708.661mil   4133.858mil   5708.661mil   3956.693mil   5787.402mil  T          0.00 sense_cap_chess_20mm
+S78        PCB-23fkddm5n7nwthazufj0-1   4734.252mil   5708.661mil    4921.26mil   5708.661mil   4744.094mil   5787.402mil  T          0.00 sense_cap_chess_20mm
+S79        PCB-23fkddm5n7nwthazufj0-1   5521.654mil   5708.661mil   5708.661mil   5708.661mil   5531.496mil   5787.402mil  T          0.00 sense_cap_chess_20mm
+S80        PCB-23fkddm5n7nwthazufj0-1   6309.055mil   5708.661mil   6496.063mil   5708.661mil   6318.898mil   5787.402mil  T          0.00 sense_cap_chess_20mm
+S81        PCB-23fkddm5n7nwthazufj0-1    797.244mil    4921.26mil    984.252mil    4921.26mil    807.087mil       5000mil  T          0.00 sense_cap_chess_20mm
+S82        PCB-23fkddm5n7nwthazufj0-1   1584.646mil    4921.26mil   1771.653mil    4921.26mil   1594.488mil       5000mil  T          0.00 sense_cap_chess_20mm
+S83        PCB-23fkddm5n7nwthazufj0-1   2372.047mil    4921.26mil   2559.055mil    4921.26mil    2381.89mil       5000mil  T          0.00 sense_cap_chess_20mm
+S84        PCB-23fkddm5n7nwthazufj0-1   3159.449mil    4921.26mil   3346.457mil    4921.26mil   3169.291mil       5000mil  T          0.00 sense_cap_chess_20mm
+S85        PCB-23fkddm5n7nwthazufj0-1    3946.85mil    4921.26mil   4133.858mil    4921.26mil   3956.693mil       5000mil  T          0.00 sense_cap_chess_20mm
+S86        PCB-23fkddm5n7nwthazufj0-1   4734.252mil    4921.26mil    4921.26mil    4921.26mil   4744.094mil       5000mil  T          0.00 sense_cap_chess_20mm
+S87        PCB-23fkddm5n7nwthazufj0-1   5521.654mil    4921.26mil   5708.661mil    4921.26mil   5531.496mil       5000mil  T          0.00 sense_cap_chess_20mm
+S88        PCB-23fkddm5n7nwthazufj0-1   6309.055mil    4921.26mil   6496.063mil    4921.26mil   6318.898mil       5000mil  T          0.00 sense_cap_chess_20mm
+S89        PCB-23fkddm5n7nwthazufj0-1    797.244mil   4133.858mil    984.252mil   4133.858mil    807.087mil   4212.599mil  T          0.00 sense_cap_chess_20mm
+S90        PCB-23fkddm5n7nwthazufj0-1   1584.646mil   4133.858mil   1771.653mil   4133.858mil   1594.488mil   4212.599mil  T          0.00 sense_cap_chess_20mm
+S91        PCB-23fkddm5n7nwthazufj0-1   2372.047mil   4133.858mil   2559.055mil   4133.858mil    2381.89mil   4212.599mil  T          0.00 sense_cap_chess_20mm
+S92        PCB-23fkddm5n7nwthazufj0-1   3159.449mil   4133.858mil   3346.457mil   4133.858mil   3169.291mil   4212.599mil  T          0.00 sense_cap_chess_20mm
+S93        PCB-23fkddm5n7nwthazufj0-1    3946.85mil   4133.858mil   4133.858mil   4133.858mil   3956.693mil   4212.599mil  T          0.00 sense_cap_chess_20mm
+S94        PCB-23fkddm5n7nwthazufj0-1   4734.252mil   4133.858mil    4921.26mil   4133.858mil   4744.094mil   4212.599mil  T          0.00 sense_cap_chess_20mm
+S95        PCB-23fkddm5n7nwthazufj0-1   5521.654mil   4133.858mil   5708.661mil   4133.858mil   5531.496mil   4212.599mil  T          0.00 sense_cap_chess_20mm
+S96        PCB-23fkddm5n7nwthazufj0-1   6309.055mil   4133.858mil   6496.063mil   4133.858mil   6318.898mil   4212.599mil  T          0.00 sense_cap_chess_20mm
+S97        PCB-23fkddm5n7nwthazufj0-1    797.244mil   3346.457mil    984.252mil   3346.457mil    807.087mil   3425.197mil  T          0.00 sense_cap_chess_20mm
+S98        PCB-23fkddm5n7nwthazufj0-1   1584.646mil   3346.457mil   1771.653mil   3346.457mil   1594.488mil   3425.197mil  T          0.00 sense_cap_chess_20mm
+S99        PCB-23fkddm5n7nwthazufj0-1   2372.047mil   3346.457mil   2559.055mil   3346.457mil    2381.89mil   3425.197mil  T          0.00 sense_cap_chess_20mm
+S100       PCB-23fkddm5n7nwthazufj0-1   3159.449mil   3346.457mil   3346.457mil   3346.457mil   3169.291mil   3425.197mil  T          0.00 sense_cap_chess_20mm
+S101       PCB-23fkddm5n7nwthazufj0-1    3946.85mil   3346.457mil   4133.858mil   3346.457mil   3956.693mil   3425.197mil  T          0.00 sense_cap_chess_20mm
+S102       PCB-23fkddm5n7nwthazufj0-1   4734.252mil   3346.457mil    4921.26mil   3346.457mil   4744.094mil   3425.197mil  T          0.00 sense_cap_chess_20mm
+S103       PCB-23fkddm5n7nwthazufj0-1   5521.654mil   3346.457mil   5708.661mil   3346.457mil   5531.496mil   3425.197mil  T          0.00 sense_cap_chess_20mm
+S104       PCB-23fkddm5n7nwthazufj0-1   6309.055mil   3346.457mil   6496.063mil   3346.457mil   6318.898mil   3425.197mil  T          0.00 sense_cap_chess_20mm
+S105       PCB-23fkddm5n7nwthazufj0-1    797.244mil   2559.055mil    984.252mil   2559.055mil    807.087mil   2637.795mil  T          0.00 sense_cap_chess_20mm
+S106       PCB-23fkddm5n7nwthazufj0-1   1584.646mil   2559.055mil   1771.653mil   2559.055mil   1594.488mil   2637.795mil  T          0.00 sense_cap_chess_20mm
+S107       PCB-23fkddm5n7nwthazufj0-1   2372.047mil   2559.055mil   2559.055mil   2559.055mil    2381.89mil   2637.795mil  T          0.00 sense_cap_chess_20mm
+S108       PCB-23fkddm5n7nwthazufj0-1   3159.449mil   2559.055mil   3346.457mil   2559.055mil   3169.291mil   2637.795mil  T          0.00 sense_cap_chess_20mm
+S109       PCB-23fkddm5n7nwthazufj0-1    3946.85mil   2559.055mil   4133.858mil   2559.055mil   3956.693mil   2637.795mil  T          0.00 sense_cap_chess_20mm
+S110       PCB-23fkddm5n7nwthazufj0-1   4734.252mil   2559.055mil    4921.26mil   2559.055mil   4744.094mil   2637.795mil  T          0.00 sense_cap_chess_20mm
+S111       PCB-23fkddm5n7nwthazufj0-1   5521.654mil   2559.055mil   5708.661mil   2559.055mil   5531.496mil   2637.795mil  T          0.00 sense_cap_chess_20mm
+S112       PCB-23fkddm5n7nwthazufj0-1   6309.055mil   2559.055mil   6496.063mil   2559.055mil   6318.898mil   2637.795mil  T          0.00 sense_cap_chess_20mm
+S113       PCB-23fkddm5n7nwthazufj0-1    797.244mil   1771.653mil    984.252mil   1771.653mil    807.087mil   1850.394mil  T          0.00 sense_cap_chess_20mm
+S114       PCB-23fkddm5n7nwthazufj0-1   1584.646mil   1771.653mil   1771.653mil   1771.653mil   1594.488mil   1850.394mil  T          0.00 sense_cap_chess_20mm
+S115       PCB-23fkddm5n7nwthazufj0-1   2372.047mil   1771.653mil   2559.055mil   1771.653mil    2381.89mil   1850.394mil  T          0.00 sense_cap_chess_20mm
+S116       PCB-23fkddm5n7nwthazufj0-1   3159.449mil   1771.653mil   3346.457mil   1771.653mil   3169.291mil   1850.394mil  T          0.00 sense_cap_chess_20mm
+S117       PCB-23fkddm5n7nwthazufj0-1    3946.85mil   1771.653mil   4133.858mil   1771.653mil   3956.693mil   1850.394mil  T          0.00 sense_cap_chess_20mm
+S118       PCB-23fkddm5n7nwthazufj0-1   4734.252mil   1771.653mil    4921.26mil   1771.653mil   4744.094mil   1850.394mil  T          0.00 sense_cap_chess_20mm
+S119       PCB-23fkddm5n7nwthazufj0-1   5521.654mil   1771.653mil   5708.661mil   1771.653mil   5531.496mil   1850.394mil  T          0.00 sense_cap_chess_20mm
+S120       PCB-23fkddm5n7nwthazufj0-1   6309.055mil   1771.653mil   6496.063mil   1771.653mil   6318.898mil   1850.394mil  T          0.00 sense_cap_chess_20mm
+S121       PCB-23fkddm5n7nwthazufj0-1    797.244mil    984.252mil    984.252mil    984.252mil    807.087mil   1062.992mil  T          0.00 sense_cap_chess_20mm
+S122       PCB-23fkddm5n7nwthazufj0-1   1584.646mil    984.252mil   1771.653mil    984.252mil   1594.488mil   1062.992mil  T          0.00 sense_cap_chess_20mm
+S123       PCB-23fkddm5n7nwthazufj0-1   2372.047mil    984.252mil   2559.055mil    984.252mil    2381.89mil   1062.992mil  T          0.00 sense_cap_chess_20mm
+S124       PCB-23fkddm5n7nwthazufj0-1   3159.449mil    984.252mil   3346.457mil    984.252mil   3169.291mil   1062.992mil  T          0.00 sense_cap_chess_20mm
+S125       PCB-23fkddm5n7nwthazufj0-1    3946.85mil    984.252mil   4133.858mil    984.252mil   3956.693mil   1062.992mil  T          0.00 sense_cap_chess_20mm
+S126       PCB-23fkddm5n7nwthazufj0-1   4734.252mil    984.252mil    4921.26mil    984.252mil   4744.094mil   1062.992mil  T          0.00 sense_cap_chess_20mm
+S127       PCB-23fkddm5n7nwthazufj0-1   5521.654mil    984.252mil   5708.661mil    984.252mil   5531.496mil   1062.992mil  T          0.00 sense_cap_chess_20mm
+S128       PCB-23fkddm5n7nwthazufj0-1   6309.055mil    984.252mil   6496.063mil    984.252mil   6318.898mil   1062.992mil  T          0.00 sense_cap_chess_20mm
+D10        PCB-te7tz55drqxqj78i57nm-1    590.551mil   6102.362mil    590.551mil   6102.362mil    667.323mil   6102.362mil  B        180.00 LED            
+D11        PCB-te7tz55drqxqj78i57nm-1   1377.953mil   6102.362mil   1377.953mil   6102.362mil   1454.725mil   6102.362mil  B        180.00 LED            
+D12        PCB-te7tz55drqxqj78i57nm-1   2165.354mil   6102.362mil   2165.354mil   6102.362mil   2242.126mil   6102.362mil  B        180.00 LED            
+D19        PCB-te7tz55drqxqj78i57nm-1    590.551mil   5314.961mil    590.551mil   5314.961mil    667.323mil   5314.961mil  B        180.00 LED            
+D20        PCB-te7tz55drqxqj78i57nm-1   1377.953mil   5314.961mil   1377.953mil   5314.961mil   1454.725mil   5314.961mil  B        180.00 LED            
+D21        PCB-te7tz55drqxqj78i57nm-1   2165.354mil   5314.961mil   2165.354mil   5314.961mil   2242.126mil   5314.961mil  B        180.00 LED            
+S1         PCB-23fkddm5n7nwthazufj0-1    1171.26mil   6496.063mil    984.252mil   6496.063mil   1161.417mil   6574.803mil  B        180.00 sense_cap_chess_20mm
+S2         PCB-23fkddm5n7nwthazufj0-1   1958.661mil   6496.063mil   1771.653mil   6496.063mil   1948.819mil   6574.803mil  B        180.00 sense_cap_chess_20mm
+S3         PCB-23fkddm5n7nwthazufj0-1   2746.063mil   6496.063mil   2559.055mil   6496.063mil    2736.22mil   6574.803mil  B        180.00 sense_cap_chess_20mm
+S4         PCB-23fkddm5n7nwthazufj0-1   3533.465mil   6496.063mil   3346.457mil   6496.063mil   3523.622mil   6574.803mil  B        180.00 sense_cap_chess_20mm
+S5         PCB-23fkddm5n7nwthazufj0-1   4320.866mil   6496.063mil   4133.858mil   6496.063mil   4311.024mil   6574.803mil  B        180.00 sense_cap_chess_20mm
+S6         PCB-23fkddm5n7nwthazufj0-1   5108.268mil   6496.063mil    4921.26mil   6496.063mil   5098.425mil   6574.803mil  B        180.00 sense_cap_chess_20mm
+S7         PCB-23fkddm5n7nwthazufj0-1   5895.669mil   6496.063mil   5708.661mil   6496.063mil   5885.827mil   6574.803mil  B        180.00 sense_cap_chess_20mm
+S8         PCB-23fkddm5n7nwthazufj0-1   6683.071mil   6496.063mil   6496.063mil   6496.063mil   6673.228mil   6574.803mil  B        180.00 sense_cap_chess_20mm
+S9         PCB-23fkddm5n7nwthazufj0-1    1171.26mil   5708.661mil    984.252mil   5708.661mil   1161.417mil   5787.402mil  B        180.00 sense_cap_chess_20mm
+S10        PCB-23fkddm5n7nwthazufj0-1   1958.661mil   5708.661mil   1771.653mil   5708.661mil   1948.819mil   5787.402mil  B        180.00 sense_cap_chess_20mm
+S11        PCB-23fkddm5n7nwthazufj0-1   2746.063mil   5708.661mil   2559.055mil   5708.661mil    2736.22mil   5787.402mil  B        180.00 sense_cap_chess_20mm
+S12        PCB-23fkddm5n7nwthazufj0-1   3533.465mil   5708.661mil   3346.457mil   5708.661mil   3523.622mil   5787.402mil  B        180.00 sense_cap_chess_20mm
+S13        PCB-23fkddm5n7nwthazufj0-1   4320.866mil   5708.661mil   4133.858mil   5708.661mil   4311.024mil   5787.402mil  B        180.00 sense_cap_chess_20mm
+S14        PCB-23fkddm5n7nwthazufj0-1   5108.268mil   5708.661mil    4921.26mil   5708.661mil   5098.425mil   5787.402mil  B        180.00 sense_cap_chess_20mm
+S15        PCB-23fkddm5n7nwthazufj0-1   5895.669mil   5708.661mil   5708.661mil   5708.661mil   5885.827mil   5787.402mil  B        180.00 sense_cap_chess_20mm
+S16        PCB-23fkddm5n7nwthazufj0-1   6683.071mil   5708.661mil   6496.063mil   5708.661mil   6673.228mil   5787.402mil  B        180.00 sense_cap_chess_20mm
+S17        PCB-23fkddm5n7nwthazufj0-1    1171.26mil    4921.26mil    984.252mil    4921.26mil   1161.417mil       5000mil  B        180.00 sense_cap_chess_20mm
+S18        PCB-23fkddm5n7nwthazufj0-1   1958.661mil    4921.26mil   1771.653mil    4921.26mil   1948.819mil       5000mil  B        180.00 sense_cap_chess_20mm
+S19        PCB-23fkddm5n7nwthazufj0-1   2746.063mil    4921.26mil   2559.055mil    4921.26mil    2736.22mil       5000mil  B        180.00 sense_cap_chess_20mm
+S20        PCB-23fkddm5n7nwthazufj0-1   3533.465mil    4921.26mil   3346.457mil    4921.26mil   3523.622mil       5000mil  B        180.00 sense_cap_chess_20mm
+S21        PCB-23fkddm5n7nwthazufj0-1   4320.866mil    4921.26mil   4133.858mil    4921.26mil   4311.024mil       5000mil  B        180.00 sense_cap_chess_20mm
+S22        PCB-23fkddm5n7nwthazufj0-1   5108.268mil    4921.26mil    4921.26mil    4921.26mil   5098.425mil       5000mil  B        180.00 sense_cap_chess_20mm
+S23        PCB-23fkddm5n7nwthazufj0-1   5895.669mil    4921.26mil   5708.661mil    4921.26mil   5885.827mil       5000mil  B        180.00 sense_cap_chess_20mm
+S24        PCB-23fkddm5n7nwthazufj0-1   6683.071mil    4921.26mil   6496.063mil    4921.26mil   6673.228mil       5000mil  B        180.00 sense_cap_chess_20mm
+S25        PCB-23fkddm5n7nwthazufj0-1    1171.26mil   4133.858mil    984.252mil   4133.858mil   1161.417mil   4212.599mil  B        180.00 sense_cap_chess_20mm
+S26        PCB-23fkddm5n7nwthazufj0-1   1958.661mil   4133.858mil   1771.653mil   4133.858mil   1948.819mil   4212.599mil  B        180.00 sense_cap_chess_20mm
+S27        PCB-23fkddm5n7nwthazufj0-1   2746.063mil   4133.858mil   2559.055mil   4133.858mil    2736.22mil   4212.599mil  B        180.00 sense_cap_chess_20mm
+S28        PCB-23fkddm5n7nwthazufj0-1   3533.465mil   4133.858mil   3346.457mil   4133.858mil   3523.622mil   4212.599mil  B        180.00 sense_cap_chess_20mm
+S29        PCB-23fkddm5n7nwthazufj0-1   4320.866mil   4133.858mil   4133.858mil   4133.858mil   4311.024mil   4212.599mil  B        180.00 sense_cap_chess_20mm
+S30        PCB-23fkddm5n7nwthazufj0-1   5108.268mil   4133.858mil    4921.26mil   4133.858mil   5098.425mil   4212.599mil  B        180.00 sense_cap_chess_20mm
+S31        PCB-23fkddm5n7nwthazufj0-1   5895.669mil   4133.858mil   5708.661mil   4133.858mil   5885.827mil   4212.599mil  B        180.00 sense_cap_chess_20mm
+S32        PCB-23fkddm5n7nwthazufj0-1   6683.071mil   4133.858mil   6496.063mil   4133.858mil   6673.228mil   4212.599mil  B        180.00 sense_cap_chess_20mm
+S33        PCB-23fkddm5n7nwthazufj0-1    1171.26mil   3346.457mil    984.252mil   3346.457mil   1161.417mil   3425.197mil  B        180.00 sense_cap_chess_20mm
+S34        PCB-23fkddm5n7nwthazufj0-1   1958.661mil   3346.457mil   1771.653mil   3346.457mil   1948.819mil   3425.197mil  B        180.00 sense_cap_chess_20mm
+S35        PCB-23fkddm5n7nwthazufj0-1   2746.063mil   3346.457mil   2559.055mil   3346.457mil    2736.22mil   3425.197mil  B        180.00 sense_cap_chess_20mm
+S36        PCB-23fkddm5n7nwthazufj0-1   3533.465mil   3346.457mil   3346.457mil   3346.457mil   3523.622mil   3425.197mil  B        180.00 sense_cap_chess_20mm
+S37        PCB-23fkddm5n7nwthazufj0-1   4320.866mil   3346.457mil   4133.858mil   3346.457mil   4311.024mil   3425.197mil  B        180.00 sense_cap_chess_20mm
+S38        PCB-23fkddm5n7nwthazufj0-1   5108.268mil   3346.457mil    4921.26mil   3346.457mil   5098.425mil   3425.197mil  B        180.00 sense_cap_chess_20mm
+S39        PCB-23fkddm5n7nwthazufj0-1   5895.669mil   3346.457mil   5708.661mil   3346.457mil   5885.827mil   3425.197mil  B        180.00 sense_cap_chess_20mm
+S40        PCB-23fkddm5n7nwthazufj0-1   6683.071mil   3346.457mil   6496.063mil   3346.457mil   6673.228mil   3425.197mil  B        180.00 sense_cap_chess_20mm
+S41        PCB-23fkddm5n7nwthazufj0-1    1171.26mil   2559.055mil    984.252mil   2559.055mil   1161.417mil   2637.795mil  B        180.00 sense_cap_chess_20mm
+S42        PCB-23fkddm5n7nwthazufj0-1   1958.661mil   2559.055mil   1771.653mil   2559.055mil   1948.819mil   2637.795mil  B        180.00 sense_cap_chess_20mm
+S43        PCB-23fkddm5n7nwthazufj0-1   2746.063mil   2559.055mil   2559.055mil   2559.055mil    2736.22mil   2637.795mil  B        180.00 sense_cap_chess_20mm
+S44        PCB-23fkddm5n7nwthazufj0-1   3533.465mil   2559.055mil   3346.457mil   2559.055mil   3523.622mil   2637.795mil  B        180.00 sense_cap_chess_20mm
+S45        PCB-23fkddm5n7nwthazufj0-1   4320.866mil   2559.055mil   4133.858mil   2559.055mil   4311.024mil   2637.795mil  B        180.00 sense_cap_chess_20mm
+S46        PCB-23fkddm5n7nwthazufj0-1   5108.268mil   2559.055mil    4921.26mil   2559.055mil   5098.425mil   2637.795mil  B        180.00 sense_cap_chess_20mm
+S47        PCB-23fkddm5n7nwthazufj0-1   5895.669mil   2559.055mil   5708.661mil   2559.055mil   5885.827mil   2637.795mil  B        180.00 sense_cap_chess_20mm
+S48        PCB-23fkddm5n7nwthazufj0-1   6683.071mil   2559.055mil   6496.063mil   2559.055mil   6673.228mil   2637.795mil  B        180.00 sense_cap_chess_20mm
+S49        PCB-23fkddm5n7nwthazufj0-1    1171.26mil   1771.653mil    984.252mil   1771.653mil   1161.417mil   1850.394mil  B        180.00 sense_cap_chess_20mm
+S50        PCB-23fkddm5n7nwthazufj0-1   1958.661mil   1771.653mil   1771.653mil   1771.653mil   1948.819mil   1850.394mil  B        180.00 sense_cap_chess_20mm
+S51        PCB-23fkddm5n7nwthazufj0-1   2746.063mil   1771.653mil   2559.055mil   1771.653mil    2736.22mil   1850.394mil  B        180.00 sense_cap_chess_20mm
+S52        PCB-23fkddm5n7nwthazufj0-1   3533.465mil   1771.653mil   3346.457mil   1771.653mil   3523.622mil   1850.394mil  B        180.00 sense_cap_chess_20mm
+S53        PCB-23fkddm5n7nwthazufj0-1   4320.866mil   1771.653mil   4133.858mil   1771.653mil   4311.024mil   1850.394mil  B        180.00 sense_cap_chess_20mm
+S54        PCB-23fkddm5n7nwthazufj0-1   5108.268mil   1771.653mil    4921.26mil   1771.653mil   5098.425mil   1850.394mil  B        180.00 sense_cap_chess_20mm
+S55        PCB-23fkddm5n7nwthazufj0-1   5895.669mil   1771.653mil   5708.661mil   1771.653mil   5885.827mil   1850.394mil  B        180.00 sense_cap_chess_20mm
+S56        PCB-23fkddm5n7nwthazufj0-1   6683.071mil   1771.653mil   6496.063mil   1771.653mil   6673.228mil   1850.394mil  B        180.00 sense_cap_chess_20mm
+S57        PCB-23fkddm5n7nwthazufj0-1    1171.26mil    984.252mil    984.252mil    984.252mil   1161.417mil   1062.992mil  B        180.00 sense_cap_chess_20mm
+S58        PCB-23fkddm5n7nwthazufj0-1   1958.661mil    984.252mil   1771.653mil    984.252mil   1948.819mil   1062.992mil  B        180.00 sense_cap_chess_20mm
+S59        PCB-23fkddm5n7nwthazufj0-1   2746.063mil    984.252mil   2559.055mil    984.252mil    2736.22mil   1062.992mil  B        180.00 sense_cap_chess_20mm
+S60        PCB-23fkddm5n7nwthazufj0-1   3533.465mil    984.252mil   3346.457mil    984.252mil   3523.622mil   1062.992mil  B        180.00 sense_cap_chess_20mm
+S61        PCB-23fkddm5n7nwthazufj0-1   4320.866mil    984.252mil   4133.858mil    984.252mil   4311.024mil   1062.992mil  B        180.00 sense_cap_chess_20mm
+S62        PCB-23fkddm5n7nwthazufj0-1   5108.268mil    984.252mil    4921.26mil    984.252mil   5098.425mil   1062.992mil  B        180.00 sense_cap_chess_20mm
+S63        PCB-23fkddm5n7nwthazufj0-1   5895.669mil    984.252mil   5708.661mil    984.252mil   5885.827mil   1062.992mil  B        180.00 sense_cap_chess_20mm
+S64        PCB-23fkddm5n7nwthazufj0-1   6683.071mil    984.252mil   6496.063mil    984.252mil   6673.228mil   1062.992mil  B        180.00 sense_cap_chess_20mm
+D83        PCB-pdf5zse1jkbqdpg1nzvf-1   8356.299mil   4645.669mil   8366.142mil   4645.669mil   8318.898mil   4645.669mil  B        360.00 RSX051VAM30TR  
+
